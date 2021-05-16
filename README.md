@@ -8,3 +8,7 @@ I am an immigrant and need to communicate with my relatives in hometown, but my 
 * Export the public key and send it to your friends;
 * Import your friends' public keys;
 * Encrypt/Decrypt files.
+
+#### Many preexisting tools have provided such a function, why do I design a new one?
+* You build it, you trust it;
+* It is really easy to use.
