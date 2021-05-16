@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Crypto.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Security.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tools.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Wizard.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Crypto.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Wizard.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="File.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Common.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cipher.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\Crypto.ico">
+      <Filter>Resource files</Filter>
+    </None>
+    <None Include="res\Crypto.rc2">
+      <Filter>Resource files</Filter>
+    </None>
+    <None Include="res\error.bmp">
+      <Filter>Resource files</Filter>
+    </None>
+    <None Include="res\information.bmp">
+      <Filter>Resource files</Filter>
+    </None>
+    <None Include="res\item.bmp">
+      <Filter>Resource files</Filter>
+    </None>
+    <None Include="res\key.bmp">
+      <Filter>Resource files</Filter>
+    </None>
+    <None Include="res\question.bmp">
+      <Filter>Resource files</Filter>
+    </None>
+    <None Include="res\warning.bmp">
+      <Filter>Resource files</Filter>
+    </None>
+    <None Include="res\watermark.bmp">
+      <Filter>Resource files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{492e1b19-b24d-436f-91aa-c7620f972b1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource files">
+      <UniqueIdentifier>{7d7ae5aa-c0ee-4882-8df8-5e0eab2de695}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{66720776-96b4-4c17-8e4c-263ea481c85f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Crypto.rc">
+      <Filter>Resource files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
